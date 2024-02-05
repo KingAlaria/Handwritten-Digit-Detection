@@ -1,2 +1,2 @@
 # Handwritten-Digit-Detection
-Handwritten Digit Recognition: A Machine Learning Exploration (Python)
+Handwritten Digit Recognition using Machine Learning (Python)
